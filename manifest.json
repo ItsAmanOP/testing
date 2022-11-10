@@ -1,0 +1,11 @@
+{
+    "name" : "Aman's Extension",
+    "description" : "Get Amazon Flash Deals",
+    "version" : "0.0.1",
+    "manifest_version" : 3,
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon" : "fav.png"
+    }
+}
